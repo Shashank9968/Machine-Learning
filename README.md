@@ -104,7 +104,7 @@ From the distribution, it is evident that there is a lrage % of Category C items
 
 Involves developing a machine learning model to predict optimal reorder quantities based on historical inventory data. The goal is to improve inventory management by accurately forecasting reorder quantities to maintain stock levels and avoid shortages.
 
-### Key ComponentsKey Components:-
+### Key Components:-
 
 * a.  Data Preparation:
 
